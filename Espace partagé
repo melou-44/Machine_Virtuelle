@@ -1,0 +1,10 @@
+Liens vers le site VoirtualBox sur le partage d'espace entre VM et machine physique:
+https://lecrabeinfo.net/virtualbox-creer-dossier-partage-entre-hote-et-invite-windows-linux.html
+https://lecrabeinfo.net/virtualbox-installer-les-additions-invite-guest-additions.html
+
++Rapelle des raccourcies utiles pour accéder au menu de la VM:
+  host+F pour passer en pleine écran
+  host+c pour redimmensionner
+  avec host == Ctrl Droite en natif
+ 
++Problème de lecture du disque virtuel contenant les additions:
